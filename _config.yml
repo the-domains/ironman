@@ -1,0 +1,28 @@
+name: Ironman
+favicon: null
+layout_spectrum: 0.0824332544580102
+typography_spectrum: 0.3575578066520393
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5400154693052173
+  lightness: 0.45243699732236564
+  saturation: 0.3369766909163445
+  rhythmicContrast: 0.7854868331924081
+purpose: []
